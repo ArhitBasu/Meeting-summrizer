@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.env
+uploads/
+node_modules/
+dist/
+build/
+.DS_Store
+postgres_data/
+uploads_data/
+data/
+*.log
+.gemini/
+ami_test_audio/ 
